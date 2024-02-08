@@ -1,1 +1,60 @@
-[{"City":"Paris","Temperature":"12\u00b0C","Conditions":"Faible pluie","Forecasts":[{"Date":"CE JOUR\n08\/02","High":"14\u00b0","Low":"11\u00b0"},{"Date":"VEN.\n09\/02","High":"14\u00b0","Low":"9\u00b0"},{"Date":"SAM.\n10\/02","High":"11\u00b0","Low":"7\u00b0"},{"Date":"DIM.\n11\/02","High":"10\u00b0","Low":"4\u00b0"},{"Date":"LUN.\n12\/02","High":"9\u00b0","Low":"4\u00b0"},{"Date":"MAR.\n13\/02","High":"10\u00b0","Low":"4\u00b0"},{"Date":"MER.\n14\/02","High":"10\u00b0","Low":"3\u00b0"},{"Date":"JEU.\n15\/02","High":"12\u00b0","Low":"4\u00b0"},{"Date":"VEN.\n16\/02","High":"11\u00b0","Low":"3\u00b0"},{"Date":"SAM.\n17\/02","High":"11\u00b0","Low":"4\u00b0"}],"Air Quality":"28\nAQI"}]
+[
+    {
+        "City": "Paris",
+        "Temperature": "12\u00b0C",
+        "Conditions": "Faible pluie",
+        "Forecasts": [
+            {
+                "Date": "CE JOUR\n08\/02",
+                "High": "14\u00b0",
+                "Low": "11\u00b0"
+            },
+            {
+                "Date": "VEN.\n09\/02",
+                "High": "14\u00b0",
+                "Low": "9\u00b0"
+            },
+            {
+                "Date": "SAM.\n10\/02",
+                "High": "11\u00b0",
+                "Low": "7\u00b0"
+            },
+            {
+                "Date": "DIM.\n11\/02",
+                "High": "10\u00b0",
+                "Low": "4\u00b0"
+            },
+            {
+                "Date": "LUN.\n12\/02",
+                "High": "9\u00b0",
+                "Low": "4\u00b0"
+            },
+            {
+                "Date": "MAR.\n13\/02",
+                "High": "10\u00b0",
+                "Low": "4\u00b0"
+            },
+            {
+                "Date": "MER.\n14\/02",
+                "High": "10\u00b0",
+                "Low": "3\u00b0"
+            },
+            {
+                "Date": "JEU.\n15\/02",
+                "High": "12\u00b0",
+                "Low": "4\u00b0"
+            },
+            {
+                "Date": "VEN.\n16\/02",
+                "High": "11\u00b0",
+                "Low": "3\u00b0"
+            },
+            {
+                "Date": "SAM.\n17\/02",
+                "High": "11\u00b0",
+                "Low": "4\u00b0"
+            }
+        ],
+        "Air Quality": "28\nAQI"
+    }
+]
